@@ -1,6 +1,6 @@
 # Welcome to Goodluck's Github Profile! 🚀
 
-Passionate developer dedicated to crafting intuitive web applications. Recent graduate seeking an entry-level Developer role to apply coursework knowledge in collaborative projects.
+Passionate developer dedicated to crafting intuitive web applications. Recent graduate seeking an entry-level Developer role to apply coursework knowledge in projects.
 
 
 ## Projects 🛠️
