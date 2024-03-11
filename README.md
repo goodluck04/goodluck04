@@ -10,20 +10,20 @@ Passionate developer dedicated to crafting intuitive web applications. Recent gr
 - Developed a responsive food delivery web app using TypeScript, ReactJS, ExpressJS, MongoDB, and Auth0 for authentication.
 - Designed a robust RESTful API backend with NodeJS and ExpressJS.
 - Implemented advanced features including pagination, filtering, sorting, and cart.
-- [Live](#) <!-- Live icon -->
+- [Live](https://food-ordering-app-gamma-two.vercel.app/) <!-- Live icon -->
 
 ### URL Shortener App 🔗
 
 - Developed RESTful APIs with Express.js for URL shortening, ensuring secure access with JWT authentication.
 - Built a responsive frontend interface using React.js and Next.js for optimized performance and SEO.
-- [Live](#) <!-- Live icon -->
+- [Live](https://urlener.vercel.app/) <!-- Live icon -->
 
 ### Real Estate Listing App 🏡
 
 - Created a real estate listing web app using JavaScript, ReactJS, ExpressJS, MongoDB, Firebase, and Redux.
 - Implemented secure authentication with credentials and OAuth login.
 - Utilized Firebase for image uploads and Redux for streamlined state management, ensuring seamless data flow and user interactions.
-- [Live](#) <!-- Live icon -->
+- [Live](https://mern-estate-92x6.onrender.com/) <!-- Live icon -->
 
 ## Skills 💻
 
